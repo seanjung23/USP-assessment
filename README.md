@@ -1,1 +1,1 @@
-"cd Jae Suk Jung IT Assessment - USP" then "npm run dev"
+"cd Jae Suk Jung IT Assessment - USP" --> "npm install" --> "npm run dev"
